@@ -68,7 +68,3 @@ Here are a few reads that shaped my mindset:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Let's+grow+together!;Building+projects+%F0%9F%92%BC+%2B+planting+joy+%F0%9F%8D%80&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <em>🌿 Thanks for stopping by. Let’s grow something amazing together! 🌿</em>
-</p>
